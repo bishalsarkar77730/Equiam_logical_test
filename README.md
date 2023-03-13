@@ -1,1 +1,1 @@
-# Equiam_logical_test
+# eqaim
